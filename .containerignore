@@ -1,0 +1,7 @@
+Containerfile
+node_modules
+build
+.git
+.gitignore
+.gitmodules
+.containerignore
